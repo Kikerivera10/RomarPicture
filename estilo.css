@@ -37,24 +37,6 @@ main{
     background-color: #000000ee;
     box-shadow: 0 0  0.625rem 0 rgba(0, 0, 0, 0.5);
 }
-/*
-@keyframes cambio_fondo {
-    0% {
-        background-image: url(imagenes/fondo_sinbordes.png);
-    }
-    25%{
-        background-image: url(imagenes/fondo_sinbordes_3.png);
-    }
-    50% {
-        background-image: url(imagenes/fondo_sinbordes_4.png);
-    }
-    75%{
-        background-image: url(imagenes/fondo_sinbordes_2.png);
-    }
-    100%{
-        background-image: url(imagenes/fondo_sinbordes.png);
-    }
-}*/
 .contenedor_menu{
     width: 100vw;
 }
