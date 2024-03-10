@@ -127,7 +127,7 @@
             </div>  
         </div>
         <div  id="subscribirse" class="contenedor_subscribirse">
-            <form class="contenedor_cuadro_subscribirse" method="post" action="https://formsubmit.co/1aaaa4e1173009cd6f92b156834af588">
+            <form class="contenedor_cuadro_subscribirse" method="post" action="">
                 <p class="p_subscribirse">Subscribirse</p>
                 <div class="grid-container_subscribirse">
                     <div class="nombre">
